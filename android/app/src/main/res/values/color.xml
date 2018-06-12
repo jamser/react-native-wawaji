@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dfm_login">#fb9e0f</color>
+    <color name="dfm_exit">#67e1f7</color>
+    <color name="dfm_success">#f76789</color>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_controls_next.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_controls_play.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_controls_pause.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/drawable-xxhdpi-v4/exo_controls_previous.png",
+        "source": "/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res/drawable-xxhdpi-v4/exo_controls_previous.png"
+    }
+]

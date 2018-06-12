@@ -1,0 +1,7 @@
+#Thu Jan 18 13:50:29 CST 2018
+base.0=/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10000/instant-run_2fe6307ef53e4c5d336e6b3e94b6e1863b5864c2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10000/instant-run-bootstrap_5564999aa697dd384a0d357f88056b792046c781/classes.dex
+base.1=/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10000/instant-run-bootstrap_5564999aa697dd384a0d357f88056b792046c781
+file.0=/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10000/instant-run_2fe6307ef53e4c5d336e6b3e94b6e1863b5864c2/classes.dex

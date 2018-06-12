@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LiteAVSDK_Smart_3.7.3403:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/jars/libs/LiteAVSDK_Smart.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

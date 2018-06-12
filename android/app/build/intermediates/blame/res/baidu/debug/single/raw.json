@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/raw/grab_fail.mp3",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/raw/grab_fail.mp3"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/raw/devices_move.mp3",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/raw/devices_move.mp3"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/raw/begin_play.mp3",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/raw/begin_play.mp3"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/raw/grab_success.mp3",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/raw/grab_success.mp3"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/raw/ready.mp3",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/raw/ready.mp3"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/raw/enter_room.mp3",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/raw/enter_room.mp3"
+    }
+]

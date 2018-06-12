@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/mipmap-xhdpi/ic_notice.png",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/mipmap-xhdpi/ic_notice.png"
+    },
+    {
+        "merged": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/res/merged/baidu/debug/mipmap-xhdpi/loading.png",
+        "source": "/Users/qinshiju/Desktop/rn/wawaji/android/app/src/main/res/mipmap-xhdpi/loading.png"
+    }
+]

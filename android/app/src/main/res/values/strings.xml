@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">轻松抓娃娃</string>
+    <string name="download_progress">正在下载:%1$d%%</string>
+</resources>

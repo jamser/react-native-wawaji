@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/imsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6cd87550880f534d1fd5a2d3c83f3af505c20">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/imsdk_e571878c59401944f5f31067d380d0412165bdf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/.android/build-cache/4807e182b86166e93093b8f8ccda2eeb2126c48c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10/classes_e6bd850934788ce7b5768dd7a19a8b5297344e42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/imsdk_msg_ext.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1a6e0b6ff8f83ccedf631211d82af89a6f4fd49">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/imsdk_msg_ext_582be302499de40b3a404440f87e79f63b4ecd36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/qalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2559304edee4987124d67fe81089cb108382f4d">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/qalsdk_e53c9cfabf2329429f76ce0d77afe4c14e35b60a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="934e220d321b27272ff107393ca45b56b5362fe4">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/wup-1.0.0-SNAPSHOT_996bfa9b4f1a94b6c4b390375ff5b1784791968b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/jars/libs/LiteAVSDK_Smart.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f1344a3bb41cbfacb4460d53f485bcb05ca39be">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10/LiteAVSDK_Smart_d9ece5158e9d3ad3b909f417603209cbefadbfab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/umeng-analytics-7.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb6afca3873205378c0ecba64688b2b33115d7e3">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/umeng-analytics-7.4.0_8eb11bec37eeed2f06e0071019eba72b2b7f3b84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/imsdk_group_ext.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0a677c6d5fe996a180a2107697bcc5ac785e3a9">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/imsdk_group_ext_39ebc41d1b8cb597f4c9fef9ea71a6f87ef52732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/node_modules/react-native-getui/android/build/intermediates/bundles/default/libs/GetuiSDK2.10.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc35f64fffeddbd1e6dbff4e8a73aa3209631dfe">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/8/GetuiSDK2.10.3.5_f0f1bcd94f80d4600b53f14ded5bd79af6d2f463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/tls_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ad28326b7de59008d56b6fb9900e08395387055">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/tls_sdk_2d9e41c830b935a66ec19d588d2333751dfb7fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/imsdk_sns_ext.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7d6f6a7124e1d8d0a4d1a15e53f57b8a61ca3c9">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/imsdk_sns_ext_e678b0227d7775b66df52d3f470d617d7b96addb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/node_modules/react-native-wechat/android/build/intermediates/bundles/default/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/8/libammsdk_50b23ddd91df7f95c896249458f30bb99aea080e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/incremental-runtime-classes/baidu/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10000/instant-run_2fe6307ef53e4c5d336e6b3e94b6e1863b5864c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/mobilepb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/mobilepb_439bb26b69013843c534e4f56400c7d97695a9fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/GDTTrackSDK.min.1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7980b64d7f94534b30d9df4b7583c7314e2e6a7e">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/GDTTrackSDK.min.1.3.0_e8fdd8a0dd517c0421f54f6ab4446d891e2499fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/.android/build-cache/4807e182b86166e93093b8f8ccda2eeb2126c48c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10/infer-annotations-4.0_a19b633f0fe4d799bd9ea9b67b8b563cdc0f5389/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/umeng-common-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab7a563cbe3b2a1facc2661de695030e4cd46b68">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/umeng-common-1.4.0_e6151994c9124cfcacb0f74f585d8a8633c54b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/incremental-classes/baidu/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab58ff6322ab2a85e43a0164562697828417ec34">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10000/instant-run-bootstrap_5564999aa697dd384a0d357f88056b792046c781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/.android/build-cache/41b057ca9ed61303643d753dc2dded172d23f67e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="212069bc3e4bdf6241f8bb321a047d98e63d029c">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/10/classes_48f5ee5c997b551f6b373b21e91e32b51b5db079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qinshiju/Desktop/rn/wawaji/android/app/libs/soload.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75fac6d5abe785d6658b93e008f7ef77b3fcfdc0">
+        <dex dex="/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/2/soload_eefdd1fb68e37f1407c36ac2f88c337f51b12de5/classes.dex" />
+    </item>
+
+</items>

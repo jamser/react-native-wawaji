@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/incremental/mergeBaiduDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 89,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/qinshiju/Desktop/rn/wawaji/android/app/build/generated/res/resValues/androidTest/baidu/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 89,
+                        "endOffset": 242
+                    }
+                }
+            }
+        ]
+    }
+]

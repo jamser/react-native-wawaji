@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-getui/android/react-native-getui.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-getui/android/react-native-getui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-view-shot/android/react-native-view-shot.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-view-shot/android/react-native-view-shot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-wechat/android/react-native-wechat.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-wechat/android/react-native-wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wawajilive.iml" filepath="$PROJECT_DIR$/wawajilive.iml" />
+    </modules>
+  </component>
+</project>

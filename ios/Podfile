@@ -1,0 +1,6 @@
+use_frameworks!
+
+platform :ios, '8.0'
+target 'wawajilive' do
+    pod 'TXLiteAVSDK_Smart', :podspec => 'http://pod-1252463788.cosgz.myqcloud.com/liteavsdkspec/TXLiteAVSDK_Smart.podspec'
+end

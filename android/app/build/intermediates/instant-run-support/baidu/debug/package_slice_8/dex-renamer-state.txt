@@ -1,0 +1,4 @@
+#Thu Jan 18 13:50:28 CST 2018
+base.0=/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/qinshiju/Desktop/rn/wawaji/android/app/build/intermediates/transforms/dex/baidu/debug/folders/1000/5/slice_8/classes.dex
